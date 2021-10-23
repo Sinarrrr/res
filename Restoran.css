@@ -1,0 +1,7 @@
+#table1 {border:8px solid #0000FF;width:1243px;background-color:#E0FFFF}
+#table2 {border: 8px solid #FF0000;width:1243px;background-color:#FFDAB9;}
+.c,.b {border:2px solid #0000FF;color:#0000FF;background-color:#E0FFFF}
+.a,.d {border:2px solid #FF0000;color:#FF0000;background-color:#FFDAB9;}
+body {direction:rtl;font-size:100%;width:1243px;}
+td {font-size:50px;text-align:center}
+th {font-size:50px;color:#ffffff;background-color:#5c0d74}
